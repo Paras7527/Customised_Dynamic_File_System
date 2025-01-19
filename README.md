@@ -25,11 +25,11 @@
 - **Disk Space:** 50 MB free space
 
 ## 6. Project Description
--This project provides all functionality to the user which is the same as Linux File System.
--It provides necessary commands and the System calls the implementation of the File system through the customised shell.
--In this project, we implement all necessary data structures of the file system like Incore Inode Table, File table, UAREA and User File Descriptor Table.
--Using this project we can use every system-level functionality of the Linux Operating System on any other operating system platform.
--We provide our own customised shell to interact with the customised database management system.
+This project provides all functionality to the user which is the same as Linux File System....
+It provides necessary commands and the System calls the implementation of the File system through the customised shell....
+In this project, we implement all necessary data structures of the file system like Incore Inode Table, File table, UAREA and User File Descriptor Table....
+Using this project we can use every system-level functionality of the Linux Operating System on any other operating system platform....
+We provide our own customised shell to interact with the customised database management system....
 
 ### Features:
 - **Create New Files:**
